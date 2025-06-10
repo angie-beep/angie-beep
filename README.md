@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi, I’m Angelina<br>I’m interested in programming, gaming and art<br>
 
 
